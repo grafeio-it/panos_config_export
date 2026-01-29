@@ -1,0 +1,25 @@
+# --- Secrets / keys ---
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.der
+*.jks
+*.keystore
+*.secret
+*.secrets
+.env
+.env.*
+
+# --- Backups / exports ---
+backups/
+*.xml
+
+# --- macOS ---
+.DS_Store
+
+# --- Editors ---
+.vscode/
+.idea/
