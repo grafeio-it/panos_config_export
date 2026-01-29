@@ -124,7 +124,7 @@ curl -skG "https://FIREWALL-MGMT-IP/api/"   --data-urlencode "type=keygen"   --d
 ```
 
 ## License
-Copyright 2026 Alexander Graefe
+Copyright 2026 Alexander Graefe / grafeio.it
 
 Licensed under the **Apache License, Version 2.0**.
 
